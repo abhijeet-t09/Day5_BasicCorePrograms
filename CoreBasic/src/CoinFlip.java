@@ -5,7 +5,7 @@ public class CoinFlip {
         int heads=0,tails=0;
         float percentH, percentT;
 
-        Random in = new Random();
+        //Random in = new Random();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter no. of times the coin is to be tossed :: ");
